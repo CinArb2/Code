@@ -160,7 +160,7 @@ header .button a{
 }
 
 .flower{
-    background-image: url("./img/logo_pic.svg");
+    background-image: url("./img/logopic.svg");
     background-size: min(80%, 500px);
     background-position: center;
     background-repeat: no-repeat;
